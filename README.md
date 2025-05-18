@@ -1,2 +1,2 @@
 # C-Hub
-My C Programming Practices
+My C Programming Learning Hub
